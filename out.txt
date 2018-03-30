@@ -1,0 +1,7 @@
+0 (rang 0)
+1 (rang 1)
+2 (rang 2)
+3 (rang 3)
+4 (rang 0)
+5 (rang 1)
+6 (rang 2)
